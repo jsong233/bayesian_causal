@@ -17,6 +17,6 @@ I established the model by making reasonable causal assumptions based on our pri
 
 # Structure
 
-*/graduate_admissions* contains two datasets of graduate school admission dicisions. 
+``/graduate_admissions`` contains two datasets of graduate school admission dicisions. 
 
-*/CausalAdmit_Joy.ipynb* presents my work on how I constructed a Bayesian network, then explored causal relationships between different variables.
+``/CausalAdmit_Joy.ipynb`` presents my work on how I constructed a Bayesian network, then explored causal relationships between different variables.
